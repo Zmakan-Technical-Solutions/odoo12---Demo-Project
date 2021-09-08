@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/account_retention"]
+	path = Zmakan-Technical-Solutions/account_retention
+	url = git@github.com:Zmakan-Technical-Solutions/account_retention.git
+	branch = 12.0
