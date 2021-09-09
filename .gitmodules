@@ -18,3 +18,7 @@
 	path = Zmakan-Technical-Solutions/project_default_stage_7g
 	url = git@github.com:Zmakan-Technical-Solutions/project_default_stage_7g.git
 	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/zts_approval_workflow"]
+	path = Zmakan-Technical-Solutions/zts_approval_workflow
+	url = git@github.com:Zmakan-Technical-Solutions/zts_approval_workflow.git
+	branch = 12.0
