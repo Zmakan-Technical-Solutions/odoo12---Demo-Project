@@ -10,3 +10,7 @@
 	path = Zmakan-Technical-Solutions/report_xlsx
 	url = git@github.com:Zmakan-Technical-Solutions/report_xlsx.git
 	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/project_default_tasks_7g"]
+	path = Zmakan-Technical-Solutions/project_default_tasks_7g
+	url = git@github.com:Zmakan-Technical-Solutions/project_default_tasks_7g.git
+	branch = 12.0
