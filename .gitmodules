@@ -6,3 +6,7 @@
 	path = Zmakan-Technical-Solutions/zts_project_enhancement
 	url = git@github.com:Zmakan-Technical-Solutions/zts_project_enhancement.git
 	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/report_xlsx"]
+	path = Zmakan-Technical-Solutions/report_xlsx
+	url = git@github.com:Zmakan-Technical-Solutions/report_xlsx.git
+	branch = 12.0
