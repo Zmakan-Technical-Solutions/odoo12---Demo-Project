@@ -14,3 +14,7 @@
 	path = Zmakan-Technical-Solutions/project_default_tasks_7g
 	url = git@github.com:Zmakan-Technical-Solutions/project_default_tasks_7g.git
 	branch = 12.0
+[submodule "Zmakan-Technical-Solutions/project_default_stage_7g"]
+	path = Zmakan-Technical-Solutions/project_default_stage_7g
+	url = git@github.com:Zmakan-Technical-Solutions/project_default_stage_7g.git
+	branch = 12.0
